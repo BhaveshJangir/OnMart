@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/drawable-v24/backgroundborder.xml" value="0.187" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/drawable/corner.xml" value="0.1" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/drawable/ic_menu_cart.xml" value="0.1" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/drawable/side_nav_bar.xml" value="0.187" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/drawable/stroke_color.xml" value="0.187" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/layout/activity_description.xml" value="0.2359375" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/layout/activity_design.xml" value="0.2" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/layout/activity_login.xml" value="0.176" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/layout/activity_qr_scanner.xml" value="0.25" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/layout/activity_qr_scanner2.xml" value="0.25" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/layout/app_bar_design.xml" value="0.25" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/layout/cart_items.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/layout/content_design.xml" value="0.25" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/layout/fragment_cart.xml" value="0.2" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/layout/fragment_description.xml" value="0.25" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/layout/fragment_first.xml" value="0.25" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/layout/fragment_home.xml" value="0.16" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/layout/fragment_second.xml" value="0.25" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/layout/fragment_slideshow.xml" value="0.25" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/layout/item_list.xml" value="0.2" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/layout/list_items.xml" value="0.25" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/layout/nav_header_design.xml" value="0.25" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/bhave/AndroidStudioProjects/OnMart/app/src/main/res/menu/design.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
